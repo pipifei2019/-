@@ -1,0 +1,2 @@
+C:\Users\皮皮飞\Desktop\TwoUp\ProgramDemo\c++ primer\机房预约系统\机房预约系统\x64\Debug\机房预约系统.exe
+C:\Users\皮皮飞\Desktop\TwoUp\ProgramDemo\c++ primer\机房预约系统\机房预约系统\x64\Debug\机房预约系统.pdb

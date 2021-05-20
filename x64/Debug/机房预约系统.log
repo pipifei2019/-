@@ -1,0 +1,15 @@
+﻿  manager.cpp
+  orderFile.cpp
+C:\Users\皮皮飞\Desktop\TwoUp\ProgramDemo\c++ primer\机房预约系统\机房预约系统\orderFile.cpp(30,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\皮皮飞\Desktop\TwoUp\ProgramDemo\c++ primer\机房预约系统\机房预约系统\orderFile.cpp(37,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\皮皮飞\Desktop\TwoUp\ProgramDemo\c++ primer\机房预约系统\机房预约系统\orderFile.cpp(45,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\皮皮飞\Desktop\TwoUp\ProgramDemo\c++ primer\机房预约系统\机房预约系统\orderFile.cpp(53,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\皮皮飞\Desktop\TwoUp\ProgramDemo\c++ primer\机房预约系统\机房预约系统\orderFile.cpp(61,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\皮皮飞\Desktop\TwoUp\ProgramDemo\c++ primer\机房预约系统\机房预约系统\orderFile.cpp(69,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  student.cpp
+  teacher.cpp
+C:\Users\皮皮飞\Desktop\TwoUp\ProgramDemo\c++ primer\机房预约系统\机房预约系统\teacher.cpp(129,46): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\皮皮飞\Desktop\TwoUp\ProgramDemo\c++ primer\机房预约系统\机房预约系统\teacher.cpp(133,46): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  机房预约系统.cpp
+  正在生成代码...
+  机房预约系统.vcxproj -> C:\Users\皮皮飞\Desktop\TwoUp\ProgramDemo\c++ primer\机房预约系统\机房预约系统\x64\Debug\机房预约系统.exe
